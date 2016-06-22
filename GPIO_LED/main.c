@@ -5,7 +5,7 @@
 /* Copyright (C) 2014-2016 Guangzhou Tronlong Electronic Technology Co.,Ltd */
 /*                                                                          */
 /****************************************************************************/
-//ABCDEF 1234567
+//AAAAAAAAAAAAAAA BBBBBBBBBBBBBBBBB CCCCCCCCCCCCCC DDDDDDDDDDDDDD
 /****************************************************************************/
 /*                                                                          */
 /*              µ×°å LED                                                    */
